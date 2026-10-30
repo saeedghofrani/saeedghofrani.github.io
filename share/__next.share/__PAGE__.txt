@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[8936,["38","static/chunks/app/share/page-3e36572b613df96d.js"],"CopyPrompt"]
+2:I[8936,["38","static/chunks/app/share/page-c82eed2da7885283.js"],"CopyPrompt"]
 7:I[887,[],"OutletBoundary"]
 8:"$Sreact.suspense"
 3:Ta36,Set up this fresh Arch Linux + Hyprland installation as a beautiful, polished, practical developer workstation.
@@ -39,7 +39,7 @@ Work autonomously:
 - Test configuration and applications, check for errors, and fix problems introduced.
 - Avoid interrupting the chat or logging the user out unexpectedly; explain when a restart or new session is needed.
 
-Finish by showing what was installed, important shortcuts, anything unfinished, and how to restore the previous configuration.0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-16","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-widest text-violet-700","children":"Workstation setup"}],["$","h1",null,{"className":"mt-3 text-3xl font-bold tracking-tight sm:text-5xl","children":"Arch + Hyprland workstation setup"}],["$","p",null,{"className":"mt-5 max-w-2xl text-lg leading-8 text-slate-600","children":"Open this page on your new PC and give the prompt below to Codex."}],["$","div",null,{"className":"mt-7 flex flex-wrap items-start gap-x-6 gap-y-3","children":[["$","$L2",null,{"text":"$3"}],["$","a",null,{"href":"/share/setup.txt","className":"rounded-lg border border-slate-300 px-5 py-3 text-sm font-semibold text-slate-700 hover:border-violet-500 hover:text-violet-700","children":"Open plain text"}]]}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lHnIRsxd8nbjgo5l_bAcQ"}
+Finish by showing what was installed, important shortcuts, anything unfinished, and how to restore the previous configuration.0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-16","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-widest text-violet-700","children":"Workstation setup"}],["$","h1",null,{"className":"mt-3 text-3xl font-bold tracking-tight sm:text-5xl","children":"Arch + Hyprland workstation setup"}],["$","p",null,{"className":"mt-5 max-w-2xl text-lg leading-8 text-slate-600","children":"Open this page on your new PC and give the prompt below to Codex."}],["$","div",null,{"className":"mt-7 flex flex-wrap items-start gap-x-6 gap-y-3","children":[["$","$L2",null,{"text":"$3"}],["$","a",null,{"href":"/share/setup.txt","className":"rounded-lg border border-slate-300 px-5 py-3 text-sm font-semibold text-slate-700 hover:border-violet-500 hover:text-violet-700","children":"Open plain text"}]]}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"m4yw3fZskjyGYAAH18xzC"}
 6:Ta36,Set up this fresh Arch Linux + Hyprland installation as a beautiful, polished, practical developer workstation.
 
 Hardware and setup:
