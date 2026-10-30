@@ -1,0 +1,82 @@
+1:"$Sreact.fragment"
+2:I[8936,["38","static/chunks/app/share/page-71497de230f0fdcc.js"],"CopyPrompt"]
+7:I[887,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Ta36,Set up this fresh Arch Linux + Hyprland installation as a beautiful, polished, practical developer workstation.
+
+Hardware and setup:
+- Intel Core i3, approximately 14th generation; verify the exact CPU.
+- Intel integrated graphics, 8 GB DDR5 RAM, 500 GB SSD.
+- ASUS PRIME B760M-A motherboard, without built-in Wi-Fi.
+- Internet currently works through a phone connection.
+- Hyprland, SDDM, NetworkManager, PipeWire, and zram were selected during installation.
+- Firefox, Git, and base-devel were requested; verify what actually installed.
+
+First inspect the machine, installed versions, configuration, available storage, and working services. Then implement the setup; do not stop at instructions.
+
+Appearance:
+- A cohesive elegant dark theme with restrained violet/blue accents.
+- Beautiful wallpaper, readable fonts, Nerd Font icons, matching terminal and application styling.
+- Polished status bar, application launcher, notifications, lock screen, idle handling, screenshots, clipboard history, and useful keyboard shortcuts.
+- Convenient network, volume, brightness where supported, and power controls.
+- Tasteful animations, rounded corners, and modest transparency.
+- Optimize for 8 GB RAM and Intel graphics; avoid heavy effects and unnecessary background services.
+- Configure against the installed Hyprland version and verify current configuration syntax.
+
+Applications:
+- Verify or install Firefox, Git, base-devel, VS Code, Python with uv, and a supported Node.js LTS setup.
+- Provide a usable terminal, graphical file manager, archive support, audio controls, and font support for English and Persian.
+- Inspect existing tools before installing duplicates.
+- Leave optional databases, containers, extra language runtimes, and large security-tool collections for later.
+
+Work autonomously:
+- Make reasonable choices without repeatedly asking for confirmation.
+- Back up existing configuration before changing it.
+- Prefer official repositories and documented installation methods.
+- Inspect third-party scripts before running them; avoid blindly applying large dotfile bundles.
+- Preserve the functioning network connection, boot configuration, accounts, and personal files.
+- Ask directly when a password or account sign-in is required. Never request a password in chat.
+- Test configuration and applications, check for errors, and fix problems introduced.
+- Avoid interrupting the chat or logging the user out unexpectedly; explain when a restart or new session is needed.
+
+Finish by showing what was installed, important shortcuts, anything unfinished, and how to restore the previous configuration.0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-5xl px-4 py-12 sm:px-6 sm:py-16","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-widest text-violet-700","children":"Workstation setup"}],["$","h1",null,{"className":"mt-3 text-3xl font-bold tracking-tight sm:text-5xl","children":"Arch + Hyprland workstation setup"}],["$","p",null,{"className":"mt-5 max-w-2xl text-lg leading-8 text-slate-600","children":"Open this page on your new PC and give the prompt below to Codex."}],["$","div",null,{"className":"mt-7 flex flex-wrap items-start gap-x-6 gap-y-3","children":[["$","$L2",null,{"text":"$3"}],["$","a",null,{"href":"/share/setup.txt","className":"rounded-lg border border-slate-300 px-5 py-3 text-sm font-semibold text-slate-700 hover:border-violet-500 hover:text-violet-700","children":"Open plain text"}]]}],"$L4"]}],null,"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UNYLW6n2dShm9qi_eIull"}
+6:Ta36,Set up this fresh Arch Linux + Hyprland installation as a beautiful, polished, practical developer workstation.
+
+Hardware and setup:
+- Intel Core i3, approximately 14th generation; verify the exact CPU.
+- Intel integrated graphics, 8 GB DDR5 RAM, 500 GB SSD.
+- ASUS PRIME B760M-A motherboard, without built-in Wi-Fi.
+- Internet currently works through a phone connection.
+- Hyprland, SDDM, NetworkManager, PipeWire, and zram were selected during installation.
+- Firefox, Git, and base-devel were requested; verify what actually installed.
+
+First inspect the machine, installed versions, configuration, available storage, and working services. Then implement the setup; do not stop at instructions.
+
+Appearance:
+- A cohesive elegant dark theme with restrained violet/blue accents.
+- Beautiful wallpaper, readable fonts, Nerd Font icons, matching terminal and application styling.
+- Polished status bar, application launcher, notifications, lock screen, idle handling, screenshots, clipboard history, and useful keyboard shortcuts.
+- Convenient network, volume, brightness where supported, and power controls.
+- Tasteful animations, rounded corners, and modest transparency.
+- Optimize for 8 GB RAM and Intel graphics; avoid heavy effects and unnecessary background services.
+- Configure against the installed Hyprland version and verify current configuration syntax.
+
+Applications:
+- Verify or install Firefox, Git, base-devel, VS Code, Python with uv, and a supported Node.js LTS setup.
+- Provide a usable terminal, graphical file manager, archive support, audio controls, and font support for English and Persian.
+- Inspect existing tools before installing duplicates.
+- Leave optional databases, containers, extra language runtimes, and large security-tool collections for later.
+
+Work autonomously:
+- Make reasonable choices without repeatedly asking for confirmation.
+- Back up existing configuration before changing it.
+- Prefer official repositories and documented installation methods.
+- Inspect third-party scripts before running them; avoid blindly applying large dotfile bundles.
+- Preserve the functioning network connection, boot configuration, accounts, and personal files.
+- Ask directly when a password or account sign-in is required. Never request a password in chat.
+- Test configuration and applications, check for errors, and fix problems introduced.
+- Avoid interrupting the chat or logging the user out unexpectedly; explain when a restart or new session is needed.
+
+Finish by showing what was installed, important shortcuts, anything unfinished, and how to restore the previous configuration.4:["$","pre",null,{"className":"mt-5 whitespace-pre-wrap break-words rounded-2xl border border-slate-700 bg-slate-950 p-5 font-mono text-sm leading-7 text-slate-100 shadow-xl sm:p-8","children":"$6"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

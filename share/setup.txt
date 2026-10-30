@@ -1,0 +1,38 @@
+Set up this fresh Arch Linux + Hyprland installation as a beautiful, polished, practical developer workstation.
+
+Hardware and setup:
+- Intel Core i3, approximately 14th generation; verify the exact CPU.
+- Intel integrated graphics, 8 GB DDR5 RAM, 500 GB SSD.
+- ASUS PRIME B760M-A motherboard, without built-in Wi-Fi.
+- Internet currently works through a phone connection.
+- Hyprland, SDDM, NetworkManager, PipeWire, and zram were selected during installation.
+- Firefox, Git, and base-devel were requested; verify what actually installed.
+
+First inspect the machine, installed versions, configuration, available storage, and working services. Then implement the setup; do not stop at instructions.
+
+Appearance:
+- A cohesive elegant dark theme with restrained violet/blue accents.
+- Beautiful wallpaper, readable fonts, Nerd Font icons, matching terminal and application styling.
+- Polished status bar, application launcher, notifications, lock screen, idle handling, screenshots, clipboard history, and useful keyboard shortcuts.
+- Convenient network, volume, brightness where supported, and power controls.
+- Tasteful animations, rounded corners, and modest transparency.
+- Optimize for 8 GB RAM and Intel graphics; avoid heavy effects and unnecessary background services.
+- Configure against the installed Hyprland version and verify current configuration syntax.
+
+Applications:
+- Verify or install Firefox, Git, base-devel, VS Code, Python with uv, and a supported Node.js LTS setup.
+- Provide a usable terminal, graphical file manager, archive support, audio controls, and font support for English and Persian.
+- Inspect existing tools before installing duplicates.
+- Leave optional databases, containers, extra language runtimes, and large security-tool collections for later.
+
+Work autonomously:
+- Make reasonable choices without repeatedly asking for confirmation.
+- Back up existing configuration before changing it.
+- Prefer official repositories and documented installation methods.
+- Inspect third-party scripts before running them; avoid blindly applying large dotfile bundles.
+- Preserve the functioning network connection, boot configuration, accounts, and personal files.
+- Ask directly when a password or account sign-in is required. Never request a password in chat.
+- Test configuration and applications, check for errors, and fix problems introduced.
+- Avoid interrupting the chat or logging the user out unexpectedly; explain when a restart or new session is needed.
+
+Finish by showing what was installed, important shortcuts, anything unfinished, and how to restore the previous configuration.
