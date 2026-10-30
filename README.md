@@ -5,6 +5,7 @@ Live portfolio: **https://saeedghofrani.github.io/**
 This repository contains the generated public edition of my portfolio: project stories, client and employer case studies, engineering articles, and two role-specific resumes.
 
 - [Public code](https://saeedghofrani.github.io/open-source/)
+- [Playground: apps, desktop games, and tools](https://saeedghofrani.github.io/playground/)
 - [Projects](https://saeedghofrani.github.io/projects/)
 - [Case studies](https://saeedghofrani.github.io/case-studies/)
 - [Senior Backend Engineer resume](https://saeedghofrani.github.io/resume-senior-backend-engineer.pdf)
