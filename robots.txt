@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+
+Host: https://saeedghofrani.github.io
+Sitemap: https://saeedghofrani.github.io/sitemap.xml
